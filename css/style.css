@@ -17,3 +17,10 @@ p{
     width: 60%;
     margin: auto;
 }
+#cabecera
+{
+    background: fuchsia;
+    padding: 20px;
+    color: white;
+    font-weight: 900;
+}
